@@ -50,7 +50,8 @@ Telecom companies struggle with customer retention. This project builds a logist
 ---
 
 ## 📄 Additional Files
-- [`insights-summary.md`](insights-summary.md): Key takeaways, model performance interpretation, and recommendations based on the churn analysis.
+- [`churn_prediction.py`](churn_prediction.py): The main Python script for cleaning the data, training a logistic regression model, and generating visual outputs.
+-  [`insights-summary.md`](insights-summary.md): Key takeaways, model performance interpretation, and recommendations based on the churn analysis.
 
 ---
 
