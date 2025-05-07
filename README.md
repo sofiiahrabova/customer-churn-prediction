@@ -50,15 +50,13 @@ Telecom companies struggle with customer retention. This project builds a logist
 ---
 
 ## 📁 Project Structure
-
-customer-churn-prediction/
-└── visuals/
-├── confusion_matrix.png
-└── feature_importance.png
-├── churn_prediction.py
-├── README.md
-├── insights-summary.md
-├── telco_churn.csv
+- visuals/
+  - confusion_matrix.png
+  - feature_importance.png
+- churn_prediction.py
+- README.md
+- insights-summary.md
+- telco_churn.csv
 
 ---
 
