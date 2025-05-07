@@ -42,10 +42,10 @@ Telecom companies struggle with customer retention. This project builds a logist
 ## 📷 Visualizations
 
 ### Confusion Matrix  
-![Confusion Matrix](visuals/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Feature Importance  
-![Feature Importance](visuals/feature_importance.png)
+![Feature Importance](feature_importance.png)
 
 ---
 
