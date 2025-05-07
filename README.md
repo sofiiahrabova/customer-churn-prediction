@@ -49,6 +49,11 @@ Telecom companies struggle with customer retention. This project builds a logist
 
 ---
 
+## 📄 Additional Files
+- [`insights-summary.md`](insights-summary.md): Key takeaways, model performance interpretation, and recommendations based on the churn analysis.
+
+---
+
 ## 📁 Project Structure
 - visuals/
   - confusion_matrix.png
