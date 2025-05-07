@@ -36,9 +36,3 @@ This project analyzed a Telco customer dataset to predict churn using logistic r
 - Improve support for electronic check users
 - Promote bundled services to reduce churn risk
 
----
-
-## ✅ Final Notes
-
-The model performs well with simple logistic regression and thoughtful feature scaling. For further improvement, try tree-based models (e.g. Random Forest or XGBoost) or SMOTE to synthetically balance classes.
-
