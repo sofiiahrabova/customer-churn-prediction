@@ -70,3 +70,10 @@ Telecom companies struggle with customer retention. This project builds a logist
 
 **Sofiia Hrabova**  
 [LinkedIn →](https://www.linkedin.com/in/sofiia-hrabova-1380a7338)
+
+---
+
+## 🔗 Back to Portfolio
+Want to see more projects?  
+👉 [View my full GitHub portfolio here](https://github.com/sofiiahrabova/sofiia-portfolio)
+
